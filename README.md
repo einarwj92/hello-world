@@ -1,1 +1,1 @@
-lager endaa en readme?
+hello world prosjekt
